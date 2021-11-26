@@ -1,3 +1,3 @@
 # Docs directory
 
-The docs are in this directory
+Bot-Docs/docs/`doc`
